@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("BG2.jpeg");
+    background-size: cover;
+    font-family: 'Marhey', cursive;
+    color: orange;
+}
+
+.item {
+    border: 1px white;
+    text-align: center;
+}
+.item1, .logo {
+    padding: 20px;
+    height: 30%;
+    width: auto;
+}
+
+.btn {
+    font-size: larger;
+    border-radius: 2px;
+    border: 5px solid rgb(98, 121, 204);
+    background-color: #ffc30b;
+    color:rgb(98, 121, 204);
+}
+.one {
+    display: inline;
+    border: 1px solid orange;
+    margin: 5px;
+    padding: 50px;
+    display: inline-block;
+    border: 1px solid orange;
+    margin: 5px;
+    padding: 30px;
+    font-size: 20px;
+}
+.item4 {
+    margin: 30px;
+}
